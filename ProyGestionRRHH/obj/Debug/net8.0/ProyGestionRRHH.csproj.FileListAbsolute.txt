@@ -149,3 +149,4 @@ C:\Users\junio\OneDrive\Escritorio\Cibertec\CICLO_05\Desarrollo de Servicio Web\
 C:\Users\junio\OneDrive\Escritorio\Cibertec\CICLO_05\Desarrollo de Servicio Web\slnGestionRRHH\ProyGestionRRHH\obj\Debug\net8.0\ProyGestionRRHH.pdb
 C:\Users\junio\OneDrive\Escritorio\Cibertec\CICLO_05\Desarrollo de Servicio Web\slnGestionRRHH\ProyGestionRRHH\obj\Debug\net8.0\ProyGestionRRHH.genruntimeconfig.cache
 C:\Users\junio\OneDrive\Escritorio\Cibertec\CICLO_05\Desarrollo de Servicio Web\slnGestionRRHH\ProyGestionRRHH\obj\Debug\net8.0\ref\ProyGestionRRHH.dll
+C:\Users\junio\OneDrive\Escritorio\Cibertec\CICLO_05\Desarrollo de Servicio Web\SlnGestionRRHH\ProyGestionRRHH\obj\Debug\net8.0\ProyGestionRRHH.sourcelink.json

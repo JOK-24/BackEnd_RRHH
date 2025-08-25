@@ -1,4 +1,4 @@
-﻿namespace ProyGestionRRHH.DTO
+﻿namespace ProyGestionRRHH.DTO.Login
 {
     public class LoginRequest
     {

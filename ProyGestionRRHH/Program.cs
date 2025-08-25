@@ -12,7 +12,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("ReactCorsPolicy", policy =>
     {
-        policy.WithOrigins("http://localhost:5174") // URL donde corre React
+        policy.WithOrigins("http://localhost:5173") // URL donde corre React
               .AllowAnyHeader()
               .AllowAnyMethod();
     });

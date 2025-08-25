@@ -1,4 +1,4 @@
-﻿namespace ProyGestionRRHH.DTO
+﻿namespace ProyGestionRRHH.DTO.DepartamentoDTO
 {
     public class DepartamentoDTO
     {

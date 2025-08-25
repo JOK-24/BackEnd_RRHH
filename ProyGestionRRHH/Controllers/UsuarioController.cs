@@ -3,6 +3,7 @@ using ProyGestionRRHH.DTO;
 using ProyGestionRRHH.Models;
 using Microsoft.EntityFrameworkCore;
 using ProyGestionRRHH.DTO.UsuarioDTO;
+using ProyGestionRRHH.DTO.Login;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 

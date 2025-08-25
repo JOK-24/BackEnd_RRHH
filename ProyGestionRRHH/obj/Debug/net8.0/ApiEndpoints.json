@@ -84,7 +84,7 @@
     "Parameters": [
       {
         "Name": "departamentoDto",
-        "Type": "ProyGestionRRHH.DTO.DepartamentoDTO",
+        "Type": "ProyGestionRRHH.DTO.DepartamentoDTO.DepartamentoDTO",
         "IsRequired": true
       }
     ],
@@ -216,51 +216,9 @@
     ]
   },
   {
-    "ContainingType": "ProyGestionRRHH.Controllers.LoginRequestController",
+    "ContainingType": "ProyGestionRRHH.Controllers.HistorialController",
     "Method": "Get",
-    "RelativePath": "api/LoginRequest",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "ProyGestionRRHH.Controllers.LoginRequestController",
-    "Method": "Post",
-    "RelativePath": "api/LoginRequest",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "value",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "ProyGestionRRHH.Controllers.LoginRequestController",
-    "Method": "Get",
-    "RelativePath": "api/LoginRequest/{id}",
+    "RelativePath": "api/Historial/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -284,9 +242,9 @@
     ]
   },
   {
-    "ContainingType": "ProyGestionRRHH.Controllers.LoginRequestController",
+    "ContainingType": "ProyGestionRRHH.Controllers.HistorialController",
     "Method": "Put",
-    "RelativePath": "api/LoginRequest/{id}",
+    "RelativePath": "api/Historial/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -311,9 +269,9 @@
     ]
   },
   {
-    "ContainingType": "ProyGestionRRHH.Controllers.LoginRequestController",
+    "ContainingType": "ProyGestionRRHH.Controllers.HistorialController",
     "Method": "Delete",
-    "RelativePath": "api/LoginRequest/{id}",
+    "RelativePath": "api/Historial/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -331,6 +289,187 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.HistorialController",
+    "Method": "GetSolicitudes",
+    "RelativePath": "api/Historial/GetSolicitudes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.HistorialController",
+    "Method": "SolicitarPermisoPost",
+    "RelativePath": "api/Historial/SolicitarPermisoPost",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "solicitudDto",
+        "Type": "ProyGestionRRHH.DTO.HistorialDTO.HistorialPermisoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.PasswordController",
+    "Method": "Delete",
+    "RelativePath": "api/Password/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.PasswordController",
+    "Method": "ResetPasswordPut",
+    "RelativePath": "api/Password/ResetPasswordPut/Admin",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ProyGestionRRHH.DTO.Login.ResetPasswordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.PasswordController",
+    "Method": "UpdatePasswordPut",
+    "RelativePath": "api/Password/UpdatePasswordPut",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ProyGestionRRHH.DTO.Login.UpdatePasswordRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.PermisoController",
+    "Method": "Get",
+    "RelativePath": "api/Permiso/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.PermisoController",
+    "Method": "Put",
+    "RelativePath": "api/Permiso/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.PermisoController",
+    "Method": "Delete",
+    "RelativePath": "api/Permiso/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.PermisoController",
+    "Method": "GetPermisos",
+    "RelativePath": "api/Permiso/GetPermisos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.PermisoController",
+    "Method": "PermisoPost",
+    "RelativePath": "api/Permiso/PermisoPost",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "permisoDto",
+        "Type": "ProyGestionRRHH.DTO.PermisoDTO.PermisoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "ProyGestionRRHH.Controllers.PuestoController",
@@ -636,7 +775,7 @@
     "Parameters": [
       {
         "Name": "request",
-        "Type": "ProyGestionRRHH.DTO.LoginRequest",
+        "Type": "ProyGestionRRHH.DTO.Login.LoginRequest",
         "IsRequired": true
       }
     ],
