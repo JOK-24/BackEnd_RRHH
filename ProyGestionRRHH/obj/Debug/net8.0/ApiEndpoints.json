@@ -102,28 +102,6 @@
   },
   {
     "ContainingType": "ProyGestionRRHH.Controllers.EmpleadoController",
-    "Method": "Delete",
-    "RelativePath": "api/Empleado/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "ProyGestionRRHH.Controllers.EmpleadoController",
     "Method": "EmpleadoPost",
     "RelativePath": "api/Empleado/EmpleadoPost",
     "HttpMethod": "POST",
@@ -168,6 +146,32 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.EmpleadoController",
+    "Method": "GetEmpleadoByUsuario",
+    "RelativePath": "api/Empleado/GetEmpleadoByUsuario/{idUsuario}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int64",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ProyGestionRRHH.Models.Empleado",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   },
   {
     "ContainingType": "ProyGestionRRHH.Controllers.EmpleadoController",
@@ -298,6 +302,22 @@
     "IsController": true,
     "Order": 0,
     "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.HistorialController",
+    "Method": "GetSolicitudesByEmpleado",
+    "RelativePath": "api/Historial/GetSolicitudesByEmpleado/{idEmpleado}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEmpleado",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
     "ReturnTypes": []
   },
   {
@@ -583,6 +603,46 @@
     "ReturnTypes": [
       {
         "Type": "ProyGestionRRHH.DTO.PuestoDTO.PuestoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.ReporteContratoController",
+    "Method": "GetContratos",
+    "RelativePath": "api/ReporteContrato/GetContratos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProyGestionRRHH.DTO.ReporteDTO.ReporteContratoDTO, ProyGestionRRHH, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProyGestionRRHH.Controllers.ReporteContratoController",
+    "Method": "GetContratosFinalizados",
+    "RelativePath": "api/ReporteContrato/GetContratosFinalizados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ProyGestionRRHH.DTO.ReporteDTO.ReporteContratoDTO, ProyGestionRRHH, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

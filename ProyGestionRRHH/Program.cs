@@ -6,7 +6,6 @@ var builder = WebApplication.CreateBuilder(args);
 // Recuperando cadena de conexión
 var conexion = builder.Configuration.GetConnectionString("cn1");
 builder.Services.AddDbContext<GestionRrhhContext>(opt => opt.UseSqlServer(conexion));
-
 // Añadir servicios CORS para React
 builder.Services.AddCors(options =>
 {

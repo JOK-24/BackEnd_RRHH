@@ -1,137 +1,153 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\",
+  "WorkspaceRootPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\login\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\login\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\login\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\login\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\controllers\\permisocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\permisocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\login\\updatepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\login\\updatepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\usuariodto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\usuariodto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\empleadodto\\empleadodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\empleadodto\\empleadodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\controllers\\puestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\puestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\historialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\historialdto\\historialpermisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\historialdto\\historialpermisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\controllers\\permisocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\permisocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\departamentodto\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\departamentodto\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\permisodto\\permisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\permisodto\\permisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\usuariodto\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\usuariodto\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\puestodto\\puestodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\puestodto\\puestodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\puestodto\\puestolistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\puestodto\\puestolistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\models\\puesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\models\\puesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\roledto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\roledto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\dto\\usuariodto\\usuarioupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\login\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\login\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\historialdto\\historialpermisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\historialdto\\historialpermisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\models\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\models\\permiso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\usuariodto\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\usuariodto\\usuariorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\usuariodto\\usuarioupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\usuariodto\\usuarioupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\models\\gestionrrhhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\models\\gestionrrhhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\empleadodto\\empleadodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\empleadodto\\empleadodetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\proygestionrrhh.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\proygestionrrhh.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\passwordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\proygestionrrhh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\proygestionrrhh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\permisodto\\permisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\permisodto\\permisodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\permisodto\\solicitudesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\permisodto\\solicitudesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\slngestionrrhh\\proygestionrrhh\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\proygestionrrhh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\proygestionrrhh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\controllers\\reportecontratocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\reportecontratocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\proygestionrrhh.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\proygestionrrhh.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\models\\puesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\models\\puesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\reportedto\\reportecontratodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\reportedto\\reportecontratodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\departamentodto\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\departamentodto\\departamentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\login\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\login\\resetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\login\\updatepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\login\\updatepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\usuariodto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\usuariodto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\controllers\\puestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\puestocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\puestodto\\puestodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\puestodto\\puestodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\puestodto\\puestolistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\puestodto\\puestolistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\dto\\roledto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\dto\\roledto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\models\\gestionrrhhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\models\\gestionrrhhcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|c:\\users\\junio\\onedrive\\escritorio\\cibertec\\ciclo_05\\desarrollo de servicio web\\proyecto\\slngestionrrhh\\proygestionrrhh\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5DF72FF-BE83-4777-87FA-A9EDCDAD672A}|ProyGestionRRHH\\ProyGestionRRHH.csproj|solutionrelative:proygestionrrhh\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -142,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 221,
-          "SelectedChildIndex": 32,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -150,111 +166,159 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ResetPasswordRequest.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\Login\\ResetPasswordRequest.cs",
-              "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\Login\\ResetPasswordRequest.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\Login\\ResetPasswordRequest.cs",
-              "RelativeToolTip": "ProyGestionRRHH\\DTO\\Login\\ResetPasswordRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T06:32:21.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PasswordController.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\PasswordController.cs",
-              "RelativeDocumentMoniker": "ProyGestionRRHH\\Controllers\\PasswordController.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\PasswordController.cs",
-              "RelativeToolTip": "ProyGestionRRHH\\Controllers\\PasswordController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T06:09:49.726Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UpdatePasswordRequest.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\Login\\UpdatePasswordRequest.cs",
-              "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\Login\\UpdatePasswordRequest.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\Login\\UpdatePasswordRequest.cs",
-              "RelativeToolTip": "ProyGestionRRHH\\DTO\\Login\\UpdatePasswordRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T06:08:45.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "HistorialController.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\HistorialController.cs",
-              "RelativeDocumentMoniker": "ProyGestionRRHH\\Controllers\\HistorialController.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\HistorialController.cs",
-              "RelativeToolTip": "ProyGestionRRHH\\Controllers\\HistorialController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDUAAAAqAAAAAAAAAA==",
+              "Title": "SolicitudesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PermisoDTO\\SolicitudesDTO.cs",
+              "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\PermisoDTO\\SolicitudesDTO.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PermisoDTO\\SolicitudesDTO.cs",
+              "RelativeToolTip": "ProyGestionRRHH\\DTO\\PermisoDTO\\SolicitudesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T09:06:32.412Z"
+              "WhenOpened": "2025-08-27T07:33:26.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "HistorialPermisoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\HistorialDTO\\HistorialPermisoDTO.cs",
-              "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\HistorialDTO\\HistorialPermisoDTO.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\HistorialDTO\\HistorialPermisoDTO.cs",
-              "RelativeToolTip": "ProyGestionRRHH\\DTO\\HistorialDTO\\HistorialPermisoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Permiso.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Permiso.cs",
+              "RelativeDocumentMoniker": "ProyGestionRRHH\\Models\\Permiso.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Permiso.cs",
+              "RelativeToolTip": "ProyGestionRRHH\\Models\\Permiso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T09:05:59.496Z"
+              "WhenOpened": "2025-08-25T22:42:45.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "ReporteContratoController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\ReporteContratoController.cs",
+              "RelativeDocumentMoniker": "ProyGestionRRHH\\Controllers\\ReporteContratoController.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\ReporteContratoController.cs",
+              "RelativeToolTip": "ProyGestionRRHH\\Controllers\\ReporteContratoController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T21:44:56.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReporteContratoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\ReporteDTO\\ReporteContratoDTO.cs",
+              "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\ReporteDTO\\ReporteContratoDTO.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\ReporteDTO\\ReporteContratoDTO.cs",
+              "RelativeToolTip": "ProyGestionRRHH\\DTO\\ReporteDTO\\ReporteContratoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T21:42:31.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ResetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\Login\\ResetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\Login\\ResetPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\Login\\ResetPasswordRequest.cs",
+              "RelativeToolTip": "ProyGestionRRHH\\DTO\\Login\\ResetPasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:32:21.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PasswordController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\PasswordController.cs",
+              "RelativeDocumentMoniker": "ProyGestionRRHH\\Controllers\\PasswordController.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\PasswordController.cs",
+              "RelativeToolTip": "ProyGestionRRHH\\Controllers\\PasswordController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:09:49.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdatePasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\Login\\UpdatePasswordRequest.cs",
+              "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\Login\\UpdatePasswordRequest.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\Login\\UpdatePasswordRequest.cs",
+              "RelativeToolTip": "ProyGestionRRHH\\DTO\\Login\\UpdatePasswordRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T06:08:45.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HistorialController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\HistorialController.cs",
+              "RelativeDocumentMoniker": "ProyGestionRRHH\\Controllers\\HistorialController.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\HistorialController.cs",
+              "RelativeToolTip": "ProyGestionRRHH\\Controllers\\HistorialController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAUwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T09:06:32.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HistorialPermisoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\HistorialDTO\\HistorialPermisoDTO.cs",
+              "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\HistorialDTO\\HistorialPermisoDTO.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\HistorialDTO\\HistorialPermisoDTO.cs",
+              "RelativeToolTip": "ProyGestionRRHH\\DTO\\HistorialDTO\\HistorialPermisoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T09:05:59.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "PermisoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PermisoDTO\\PermisoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PermisoDTO\\PermisoDTO.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\PermisoDTO\\PermisoDTO.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PermisoDTO\\PermisoDTO.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PermisoDTO\\PermisoDTO.cs",
               "RelativeToolTip": "ProyGestionRRHH\\DTO\\PermisoDTO\\PermisoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T09:01:20.524Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "PermisoController.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\PermisoController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\PermisoController.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Controllers\\PermisoController.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\PermisoController.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\PermisoController.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Controllers\\PermisoController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T08:59:22.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "DepartamentoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\DepartamentoDTO\\DepartamentoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\DepartamentoDTO\\DepartamentoDTO.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\DepartamentoDTO\\DepartamentoDTO.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\DepartamentoDTO\\DepartamentoDTO.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\DepartamentoDTO\\DepartamentoDTO.cs",
               "RelativeToolTip": "ProyGestionRRHH\\DTO\\DepartamentoDTO\\DepartamentoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T08:51:29.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "PuestoListDTO.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PuestoDTO\\PuestoListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PuestoDTO\\PuestoListDTO.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\PuestoDTO\\PuestoListDTO.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PuestoDTO\\PuestoListDTO.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PuestoDTO\\PuestoListDTO.cs",
               "RelativeToolTip": "ProyGestionRRHH\\DTO\\PuestoDTO\\PuestoListDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -262,11 +326,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "PuestoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PuestoDTO\\PuestoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PuestoDTO\\PuestoDTO.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\PuestoDTO\\PuestoDTO.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PuestoDTO\\PuestoDTO.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\PuestoDTO\\PuestoDTO.cs",
               "RelativeToolTip": "ProyGestionRRHH\\DTO\\PuestoDTO\\PuestoDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -274,11 +338,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "RoleDTO.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\RoleDTO\\RoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\RoleDTO\\RoleDTO.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\RoleDTO\\RoleDTO.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\RoleDTO\\RoleDTO.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\RoleDTO\\RoleDTO.cs",
               "RelativeToolTip": "ProyGestionRRHH\\DTO\\RoleDTO\\RoleDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -286,35 +350,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "RoleController.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\RoleController.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Controllers\\RoleController.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\RoleController.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Controllers\\RoleController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T06:06:38.007Z"
+              "WhenOpened": "2025-08-24T06:06:38.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioUpdate.cs",
+              "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioUpdate.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioUpdate.cs",
+              "RelativeToolTip": "ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:48:53.855Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "UsuarioUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioUpdate.cs",
-              "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioUpdate.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioUpdate.cs",
-              "RelativeToolTip": "ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioUpdate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T15:48:53.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "UsuarioDTO.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioDTO.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioDTO.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioDTO.cs",
               "RelativeToolTip": "ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -322,35 +388,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "SecurityHelper.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\SecurityHelper.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\SecurityHelper.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\SecurityHelper.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\SecurityHelper.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\SecurityHelper.cs",
               "RelativeToolTip": "ProyGestionRRHH\\DTO\\SecurityHelper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T21:54:40.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 10,
               "Title": "UsuarioRequest.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioRequest.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioRequest.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioRequest.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioRequest.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioRequest.cs",
               "RelativeToolTip": "ProyGestionRRHH\\DTO\\UsuarioDTO\\UsuarioRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T21:49:01.436Z"
+              "WhenOpened": "2025-08-22T21:49:01.436Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\Login\\LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\Login\\LoginRequest.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\Login\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\Login\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\Login\\LoginRequest.cs",
               "RelativeToolTip": "ProyGestionRRHH\\DTO\\Login\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -359,23 +426,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "EmpleadoDetalleDTO.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\EmpleadoDTO\\EmpleadoDetalleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\EmpleadoDTO\\EmpleadoDetalleDTO.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\DTO\\EmpleadoDTO\\EmpleadoDetalleDTO.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\EmpleadoDTO\\EmpleadoDetalleDTO.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\DTO\\EmpleadoDTO\\EmpleadoDetalleDTO.cs",
               "RelativeToolTip": "ProyGestionRRHH\\DTO\\EmpleadoDTO\\EmpleadoDetalleDTO.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAYAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T04:32:59.339Z"
+              "WhenOpened": "2025-08-22T04:32:59.339Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 20,
               "Title": "ProyGestionRRHH.http",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\ProyGestionRRHH.http",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\ProyGestionRRHH.http",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\ProyGestionRRHH.http",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\ProyGestionRRHH.http",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\ProyGestionRRHH.http",
               "RelativeToolTip": "ProyGestionRRHH\\ProyGestionRRHH.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -383,11 +451,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Role.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Role.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Models\\Role.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Role.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -395,23 +463,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAqwI0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAuwJUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T22:19:08.786Z"
+              "WhenOpened": "2025-08-20T22:19:08.786Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "Departamento.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Departamento.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Departamento.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Models\\Departamento.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Departamento.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Departamento.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Models\\Departamento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,23 +488,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "Puesto.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Puesto.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Puesto.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Models\\Puesto.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Puesto.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Puesto.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Models\\Puesto.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T01:25:14.95Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "PuestoController.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\PuestoController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\PuestoController.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Controllers\\PuestoController.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\PuestoController.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\PuestoController.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Controllers\\PuestoController.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAkwBoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,59 +512,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "DepartamentoController.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\DepartamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\DepartamentoController.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Controllers\\DepartamentoController.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\DepartamentoController.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\DepartamentoController.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Controllers\\DepartamentoController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T00:20:18.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 18,
               "Title": "ProyGestionRRHH.csproj",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\slnGestionRRHH\\ProyGestionRRHH\\ProyGestionRRHH.csproj",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\ProyGestionRRHH.csproj",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\ProyGestionRRHH.csproj",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\slnGestionRRHH\\ProyGestionRRHH\\ProyGestionRRHH.csproj",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\ProyGestionRRHH.csproj",
               "RelativeToolTip": "ProyGestionRRHH\\ProyGestionRRHH.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-19T01:58:44.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 4,
               "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Empleado.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Models\\Empleado.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Empleado.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Models\\Empleado.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA6wCwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T22:51:54.968Z"
+              "WhenOpened": "2025-08-18T22:51:54.968Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "EmpleadoController.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\EmpleadoController.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Controllers\\EmpleadoController.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\EmpleadoController.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Controllers\\EmpleadoController.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAkwDwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswHgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T22:38:25.353Z"
+              "WhenOpened": "2025-08-18T22:38:25.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -503,23 +574,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\Usuario.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T22:32:57.387Z"
+              "WhenOpened": "2025-08-18T22:32:57.387Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "GestionRrhhContext.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\GestionRrhhContext.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\GestionRrhhContext.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Models\\GestionRrhhContext.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\GestionRrhhContext.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Models\\GestionRrhhContext.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Models\\GestionRrhhContext.cs",
               "ViewState": "AgIAAMMAAAAAAAAAAAAEwM4AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -527,24 +599,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Program.cs",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\Program.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\Program.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\Program.cs",
               "RelativeToolTip": "ProyGestionRRHH\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T02:02:49.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T02:02:49.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\appsettings.json",
               "RelativeDocumentMoniker": "ProyGestionRRHH\\appsettings.json",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\SlnGestionRRHH\\ProyGestionRRHH\\appsettings.json",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\appsettings.json",
               "RelativeToolTip": "ProyGestionRRHH\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",

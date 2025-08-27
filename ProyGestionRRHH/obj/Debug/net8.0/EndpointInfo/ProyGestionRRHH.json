@@ -317,25 +317,42 @@
         }
       }
     },
-    "/api/Empleado/{id}": {
-      "delete": {
+    "/api/Empleado/GetEmpleadoByUsuario/{idUsuario}": {
+      "get": {
         "tags": [
           "Empleado"
         ],
         "parameters": [
           {
-            "name": "id",
+            "name": "idUsuario",
             "in": "path",
             "required": true,
             "schema": {
               "type": "integer",
-              "format": "int32"
+              "format": "int64"
             }
           }
         ],
         "responses": {
           "200": {
-            "description": "OK"
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Empleado"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Empleado"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Empleado"
+                }
+              }
+            }
           }
         }
       }
@@ -344,6 +361,29 @@
       "get": {
         "tags": [
           "Historial"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Historial/GetSolicitudesByEmpleado/{idEmpleado}": {
+      "get": {
+        "tags": [
+          "Historial"
+        ],
+        "parameters": [
+          {
+            "name": "idEmpleado",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
         ],
         "responses": {
           "200": {
@@ -898,6 +938,82 @@
         "responses": {
           "200": {
             "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ReporteContrato/GetContratos": {
+      "get": {
+        "tags": [
+          "ReporteContrato"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReporteContratoDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReporteContratoDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReporteContratoDTO"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/ReporteContrato/GetContratosFinalizados": {
+      "get": {
+        "tags": [
+          "ReporteContrato"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReporteContratoDTO"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReporteContratoDTO"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/ReporteContratoDTO"
+                  }
+                }
+              }
+            }
           }
         }
       }
@@ -1574,9 +1690,17 @@
             "type": "integer",
             "format": "int64"
           },
+          "nombreEmpleado": {
+            "type": "string",
+            "nullable": true
+          },
           "idPermiso": {
             "type": "integer",
             "format": "int64"
+          },
+          "nombrePermiso": {
+            "type": "string",
+            "nullable": true
           },
           "fechaSolicitud": {
             "type": "string",
@@ -1748,6 +1872,36 @@
           },
           "enabled": {
             "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ReporteContratoDTO": {
+        "type": "object",
+        "properties": {
+          "idEmpleado": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "nombreCompleto": {
+            "type": "string",
+            "nullable": true
+          },
+          "fechaContratacion": {
+            "type": "string",
+            "format": "date"
+          },
+          "fechaVencimiento": {
+            "type": "string",
+            "format": "date"
+          },
+          "diasRestantes": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "estadoEmpleado": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false

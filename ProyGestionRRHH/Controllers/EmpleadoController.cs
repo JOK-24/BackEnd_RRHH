@@ -105,10 +105,19 @@ namespace ProyGestionRRHH.Controllers
             return Ok($"Se actualizó al empleado: {value.NombreCompleto}");
         }
 
-        // DELETE api/<EmpleadoController>/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
+        // GET: api/Empleado/GetEmpleadoByUsuario/1
+        [HttpGet("GetEmpleadoByUsuario/{idUsuario}")]
+        public ActionResult<Empleado> GetEmpleadoByUsuario(long idUsuario)
         {
+            var empleado = ctx.Empleados
+                .FirstOrDefault(e => e.IdUsuario == idUsuario && e.Enabled);
+
+            if (empleado == null)
+            {
+                return NotFound(new { mensaje = "No se encontró empleado para este usuario" });
+            }
+
+            return Ok(empleado);
         }
     }
 }

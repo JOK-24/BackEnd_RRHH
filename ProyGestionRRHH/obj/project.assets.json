@@ -4256,11 +4256,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\slnGestionRRHH\\ProyGestionRRHH\\ProyGestionRRHH.csproj",
+      "projectUniqueName": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\ProyGestionRRHH.csproj",
       "projectName": "ProyGestionRRHH",
-      "projectPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\slnGestionRRHH\\ProyGestionRRHH\\ProyGestionRRHH.csproj",
+      "projectPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\ProyGestionRRHH.csproj",
       "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\slnGestionRRHH\\ProyGestionRRHH\\obj\\",
+      "outputPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\Cibertec\\CICLO_05\\Desarrollo de Servicio Web\\PROYECTO\\SlnGestionRRHH\\ProyGestionRRHH\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

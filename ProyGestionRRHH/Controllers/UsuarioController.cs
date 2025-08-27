@@ -127,6 +127,7 @@ namespace ProyGestionRRHH.Controllers
         {
             var usuario = await ctx.Usuarios
                 .Include(u => u.IdRolNavigation) // Cargar los roles asociados
+                .Include(u => u.Empleado)
                 .FirstOrDefaultAsync(u => u.NombreUsuario == request.NombreUsuario);
 
             if (usuario == null)
@@ -145,6 +146,8 @@ namespace ProyGestionRRHH.Controllers
             return Ok(new
             {
                 Message = "Login exitoso",
+                IdUsuario = usuario.Id,   // mandamos el id usuario
+                IdEmpleado = usuario.Empleado?.IdEmpleado,
                 Usuario = usuario.NombreUsuario,
                 Rol = usuario.IdRolNavigation.Nombre // Nombre del rol asignado
             });
